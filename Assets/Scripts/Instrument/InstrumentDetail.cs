@@ -61,6 +61,6 @@ public class InstrumentDetail : MonoBehaviour
 
     public void PlaySampleAudio(int index)
     {
-        _audioPlayer.Play(_currentInstrument.InstrumentClips[index]);
+        _audioPlayer.Play(_currentInstrument.InstrumentClips[index], true);
     }
 }

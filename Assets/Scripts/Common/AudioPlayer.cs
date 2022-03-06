@@ -47,4 +47,13 @@ public class AudioPlayer : MonoBehaviour
     {
         _audioSource.PlayOneShot(clip);
     }
+
+    public void Play(AudioClip clip, bool isSingle)
+    {
+        if (isSingle && _audioSource.isPlaying)
+        {
+            _audioSource.Stop();
+        }
+        Play(clip);
+    }
 }
