@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeb115e907d40288eaed98b03c5983a, type: 3}
+  m_Name: Xylophone
+  m_EditorClassIdentifier: 
+  instrumentType: 17
+  instrumentFamily: 2
+  instrumentName: "\u3082\u3063\u304D\u3093"
+  instrumentDescription: "\u3082\u3063\u304D\u3093\u3067\u3059"
+  instrumentImage: {fileID: 21300000, guid: 6be66eb4b025748e39a6899ce9418b5b, type: 3}
+  instrumentClips:
+  - {fileID: 8300000, guid: ba2b5fccdba8e4d95900b11f3ee33026, type: 3}
+  - {fileID: 8300000, guid: 5f4ac8b9a43bb4dac97098f35186d279, type: 3}
+  - {fileID: 0}
+  melodyClip: {fileID: 8300000, guid: aa8a0998c90504b34ab4822d53c8174d, type: 3}
+  harmonyClip: {fileID: 8300000, guid: 8ee5b1bccf83a48969b0de99e97c497a, type: 3}
+  bassClip: {fileID: 8300000, guid: c1c0575a6b399400e9f8b11401f57ee3, type: 3}
+  percussionClip: {fileID: 0}
+  pichted: 1
+  bass: 1

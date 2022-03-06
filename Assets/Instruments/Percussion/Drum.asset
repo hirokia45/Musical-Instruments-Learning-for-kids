@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeb115e907d40288eaed98b03c5983a, type: 3}
+  m_Name: Drum
+  m_EditorClassIdentifier: 
+  instrumentType: 21
+  instrumentFamily: 2
+  instrumentName: " \u305F\u3044\u3053"
+  instrumentDescription: "\u305F\u3044\u3053\u3067\u3059"
+  instrumentImage: {fileID: 21300000, guid: 11f858be32cd9496599d1f165d36fa9d, type: 3}
+  instrumentClips:
+  - {fileID: 8300000, guid: 7c69abd2b39d14773925887acfbcef56, type: 3}
+  - {fileID: 8300000, guid: 731bd8c843adb4f58af4c066618088b9, type: 3}
+  - {fileID: 0}
+  melodyClip: {fileID: 0}
+  harmonyClip: {fileID: 0}
+  bassClip: {fileID: 0}
+  percussionClip: {fileID: 8300000, guid: 918caed91bb25443887de6d515f98251, type: 3}
+  pichted: 0
+  bass: 0

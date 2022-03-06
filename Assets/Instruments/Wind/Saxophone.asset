@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeb115e907d40288eaed98b03c5983a, type: 3}
+  m_Name: Saxophone
+  m_EditorClassIdentifier: 
+  instrumentType: 7
+  instrumentFamily: 1
+  instrumentName: "\u30B5\u30C3\u30AF\u30B9"
+  instrumentDescription: "\u30B5\u30C3\u30AF\u30B9\u3067\u3059"
+  instrumentImage: {fileID: 21300000, guid: 0bb035abdbf5149eb81531b853ef64a7, type: 3}
+  instrumentClips:
+  - {fileID: 8300000, guid: c11dd60c56c05490eace8eb7b20cec53, type: 3}
+  - {fileID: 8300000, guid: 46cbbcce055f74518a3a8e2348552e92, type: 3}
+  - {fileID: 0}
+  melodyClip: {fileID: 8300000, guid: 5752ba62763c14b68952f79f52552e0e, type: 3}
+  harmonyClip: {fileID: 8300000, guid: 1d8e8b759cf454092b54d58cda7b8dd0, type: 3}
+  bassClip: {fileID: 0}
+  percussionClip: {fileID: 0}
+  pichted: 1
+  bass: 1

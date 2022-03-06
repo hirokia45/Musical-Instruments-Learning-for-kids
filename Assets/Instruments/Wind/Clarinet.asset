@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeb115e907d40288eaed98b03c5983a, type: 3}
+  m_Name: Clarinet
+  m_EditorClassIdentifier: 
+  instrumentType: 6
+  instrumentFamily: 1
+  instrumentName: "\u30AF\u30E9\u30EA\u30CD\u30C3\u30C8"
+  instrumentDescription: "\u30AF\u30E9\u30EA\u30CD\u30C3\u30C8\u3067\u3059"
+  instrumentImage: {fileID: 21300000, guid: 4b2d90e9c1e3048adbaa912d1041da2e, type: 3}
+  instrumentClips:
+  - {fileID: 8300000, guid: c0ece3c6ac83143daaa55caa70992099, type: 3}
+  - {fileID: 8300000, guid: 34af8404af5044ab09077f55028d0976, type: 3}
+  - {fileID: 0}
+  melodyClip: {fileID: 8300000, guid: 00c8282319d67411a9dcf53b2a77f821, type: 3}
+  harmonyClip: {fileID: 8300000, guid: dae7331a01a4741fcb55c0ee218fd1b4, type: 3}
+  bassClip: {fileID: 0}
+  percussionClip: {fileID: 0}
+  pichted: 1
+  bass: 0

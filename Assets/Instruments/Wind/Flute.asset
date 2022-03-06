@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeb115e907d40288eaed98b03c5983a, type: 3}
+  m_Name: Flute
+  m_EditorClassIdentifier: 
+  instrumentType: 4
+  instrumentFamily: 1
+  instrumentName: "\u30D5\u30EB\u30FC\u30C8"
+  instrumentDescription: "\u30D5\u30EB\u30FC\u30C8\u3067\u3059"
+  instrumentImage: {fileID: 21300000, guid: 4512024bb62c2440a9f4ad643d7dc6de, type: 3}
+  instrumentClips:
+  - {fileID: 8300000, guid: cf7c5fc6457c544ad85d2cf6fd7bfa59, type: 3}
+  - {fileID: 8300000, guid: 5443012f5d49b44498abcc0064a381eb, type: 3}
+  - {fileID: 0}
+  melodyClip: {fileID: 8300000, guid: ccb6d5844eadd45d5a96eaec2a711441, type: 3}
+  harmonyClip: {fileID: 8300000, guid: add5d7c87035c4c4ab403f8f93c3694f, type: 3}
+  bassClip: {fileID: 0}
+  percussionClip: {fileID: 0}
+  pichted: 1
+  bass: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeb115e907d40288eaed98b03c5983a, type: 3}
+  m_Name: Guitar
+  m_EditorClassIdentifier: 
+  instrumentType: 14
+  instrumentFamily: 0
+  instrumentName: "\u30AE\u30BF\u30FC"
+  instrumentDescription: "\u30AE\u30BF\u30FC\u3067\u3059"
+  instrumentImage: {fileID: 21300000, guid: 94db03a634fd04b1fb827c30754f3346, type: 3}
+  instrumentClips:
+  - {fileID: 8300000, guid: e3577a5e05f8645eead8ec96aefa4077, type: 3}
+  - {fileID: 8300000, guid: 20b776e4cdb7c4a409068e7d29ea9bcb, type: 3}
+  - {fileID: 0}
+  melodyClip: {fileID: 8300000, guid: d2588a8e37b554289869e5947bbabbd7, type: 3}
+  harmonyClip: {fileID: 8300000, guid: cb5918ef2e6d748058923a042e707c65, type: 3}
+  bassClip: {fileID: 8300000, guid: a5fb6870dc4494fefb4d9302f73b2b22, type: 3}
+  percussionClip: {fileID: 0}
+  pichted: 1
+  bass: 1

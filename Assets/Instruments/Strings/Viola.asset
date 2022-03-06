@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeb115e907d40288eaed98b03c5983a, type: 3}
+  m_Name: Viola
+  m_EditorClassIdentifier: 
+  instrumentType: 9
+  instrumentFamily: 0
+  instrumentName: "\u30D3\u30AA\u30E9"
+  instrumentDescription: "\u30D3\u30AA\u30E9\u3067\u3059"
+  instrumentImage: {fileID: 21300000, guid: e1099b05ec9bb40cc90d1535d76b8809, type: 3}
+  instrumentClips:
+  - {fileID: 8300000, guid: 213f22721c4b347c7a84343d30d5a479, type: 3}
+  - {fileID: 8300000, guid: 9cc305465109c48dfb7d3b72f908f20e, type: 3}
+  - {fileID: 0}
+  melodyClip: {fileID: 8300000, guid: 27b09ae6269fe476d9f44d176f44f419, type: 3}
+  harmonyClip: {fileID: 8300000, guid: 625d6f6af208b42ceab7a32eaa0194f4, type: 3}
+  bassClip: {fileID: 0}
+  percussionClip: {fileID: 0}
+  pichted: 1
+  bass: 0

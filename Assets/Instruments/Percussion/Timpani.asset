@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeb115e907d40288eaed98b03c5983a, type: 3}
+  m_Name: Timpani
+  m_EditorClassIdentifier: 
+  instrumentType: 16
+  instrumentFamily: 2
+  instrumentName: "\u30C6\u30A3\u30F3\u30D1\u30CB"
+  instrumentDescription: "\u30C6\u30A3\u30F3\u30D1\u30CB\u3067\u3059"
+  instrumentImage: {fileID: 21300000, guid: d6469b28f69cc496a8962ca382ef006b, type: 3}
+  instrumentClips:
+  - {fileID: 8300000, guid: 8cc3c7741c80a4b5293bbdc0c1a4376e, type: 3}
+  - {fileID: 8300000, guid: 5c6eef87c8a7143d3a0af1a119c31745, type: 3}
+  - {fileID: 0}
+  melodyClip: {fileID: 0}
+  harmonyClip: {fileID: 0}
+  bassClip: {fileID: 8300000, guid: c4e8ff27102ef4c77a760388f002b9d2, type: 3}
+  percussionClip: {fileID: 8300000, guid: 303d824f2f3f04b1bab9287b4dc8edd3, type: 3}
+  pichted: 0
+  bass: 1

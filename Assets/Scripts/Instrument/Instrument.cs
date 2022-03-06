@@ -1,0 +1,27 @@
+public enum Instrument
+{
+    Trumpet,
+    Trombone,
+    Horn,
+    Tuba,
+    Flute,
+    Oboe,
+    Clarinet,
+    Saxophone,
+    Violin,
+    Viola,
+    Cello,
+    DoubleBass,
+    Piano,
+    Harp,
+    Guitar,
+    Accordion,
+    Timpani,
+    Xylophone,
+    Glockenspiel,
+    Cymbals,
+    Triangle,
+    Drum,
+    Tambourine,
+    Conga
+}

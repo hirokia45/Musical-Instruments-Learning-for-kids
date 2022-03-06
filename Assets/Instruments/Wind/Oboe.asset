@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeb115e907d40288eaed98b03c5983a, type: 3}
+  m_Name: Oboe
+  m_EditorClassIdentifier: 
+  instrumentType: 5
+  instrumentFamily: 1
+  instrumentName: "\u30AA\u30FC\u30DC\u30A8"
+  instrumentDescription: "\u30AA\u30FC\u30DC\u30A8\u3067\u3059"
+  instrumentImage: {fileID: 21300000, guid: 8f2b0cf791c87498faa878a2ec6cbe5e, type: 3}
+  instrumentClips:
+  - {fileID: 8300000, guid: dc5b274506cf34480b5a46a871c70286, type: 3}
+  - {fileID: 8300000, guid: 73d9aeac26d014618bd17638d4e80d73, type: 3}
+  - {fileID: 0}
+  melodyClip: {fileID: 8300000, guid: 38cb5a4d169c64886a78b84f6964e28c, type: 3}
+  harmonyClip: {fileID: 8300000, guid: acf800ebad2be43afafbae80a85a7a0c, type: 3}
+  bassClip: {fileID: 0}
+  percussionClip: {fileID: 0}
+  pichted: 1
+  bass: 0

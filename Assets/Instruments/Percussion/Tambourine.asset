@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeb115e907d40288eaed98b03c5983a, type: 3}
+  m_Name: Tambourine
+  m_EditorClassIdentifier: 
+  instrumentType: 22
+  instrumentFamily: 2
+  instrumentName: "\u30BF\u30F3\u30D0\u30EA\u30F3"
+  instrumentDescription: "\u30BF\u30F3\u30D0\u30EA\u30F3\u3067\u3059"
+  instrumentImage: {fileID: 21300000, guid: 6892959685c9046099ba4d785e8adc2d, type: 3}
+  instrumentClips:
+  - {fileID: 8300000, guid: 7824ede2cf8fb4acaa6bad06ea7c98a4, type: 3}
+  - {fileID: 8300000, guid: 85b75e406aa0c445faf2af864d42534f, type: 3}
+  - {fileID: 0}
+  melodyClip: {fileID: 0}
+  harmonyClip: {fileID: 0}
+  bassClip: {fileID: 0}
+  percussionClip: {fileID: 8300000, guid: 3f648c468bc6d43199c1064a7ff87e6e, type: 3}
+  pichted: 0
+  bass: 0

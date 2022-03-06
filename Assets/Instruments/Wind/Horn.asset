@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeb115e907d40288eaed98b03c5983a, type: 3}
+  m_Name: Horn
+  m_EditorClassIdentifier: 
+  instrumentType: 2
+  instrumentFamily: 1
+  instrumentName: "\u30DB\u30EB\u30F3"
+  instrumentDescription: "\u30DB\u30EB\u30F3\u3067\u3059"
+  instrumentImage: {fileID: 21300000, guid: 218037e4ae26d4cad83996bb691a26e3, type: 3}
+  instrumentClips:
+  - {fileID: 8300000, guid: 84aa90dc558d944df9263065bec516f5, type: 3}
+  - {fileID: 8300000, guid: 10607590b3332476fb834bc4e10ab51d, type: 3}
+  - {fileID: 0}
+  melodyClip: {fileID: 8300000, guid: 0485dec19c32d4e39b4c9379a1b63dae, type: 3}
+  harmonyClip: {fileID: 8300000, guid: 392d021e785fe451aba91c941d9a0be9, type: 3}
+  bassClip: {fileID: 0}
+  percussionClip: {fileID: 0}
+  pichted: 1
+  bass: 1
