@@ -31,11 +31,6 @@ public class SelectionRenderer : MonoBehaviour
         _buttonClickAudio = FindObjectOfType<ButtonClickAudio>();
     }
 
-    private void Start()
-    {
-        ResetNavButton();
-    }
-
     private void OnEnable()
     {
         _currPage = 0;
@@ -49,7 +44,7 @@ public class SelectionRenderer : MonoBehaviour
             InstrumentSelectType.Percussion => _instrumentData.List.Where(item => !item.Pitched).ToList(),
             _ => _renderingItems
         };
-
+        
         if (HasNextPage()) nextButton.gameObject.SetActive(true);
         if (TotalItems > 0) RenderItems();
     }

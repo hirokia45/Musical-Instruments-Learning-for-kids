@@ -15,7 +15,7 @@ MonoBehaviour:
   instrumentType: 10
   instrumentFamily: 0
   instrumentName: "\u30C1\u30A7\u30ED"
-  instrumentDescription: "\u30C1\u30A7\u30ED\u3067\u3059"
+  instrumentDescription: "\u30D0\u30A4\u30AA\u30EA\u30F3\u306E\u306A\u304B\u307E\u3067\u3001\u3072\u304F\u3044\u304A\u3068\u3092\u305F\u3093\u3068\u3046\u3057\u3066\u3044\u308B\u304C\u3063\u304D\u3060\u3088\uFF01"
   instrumentImage: {fileID: 21300000, guid: a6011b6259d9146e28a2fd730c227e71, type: 3}
   instrumentClips:
   - {fileID: 8300000, guid: 51a543596fdcd4771aa7cec8af4931b1, type: 3}

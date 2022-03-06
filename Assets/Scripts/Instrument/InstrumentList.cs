@@ -73,6 +73,7 @@ public class InstrumentList : MonoBehaviour
             images[1].sprite = instrument.InstrumentImage;
 
             Button button = child.value.GetComponentInChildren<Button>();
+            button.onClick.RemoveAllListeners();
             button.onClick.AddListener(delegate
             {
                 _instrumentDetail.SelectInstrument(instrument.InstrumentType.ToString());

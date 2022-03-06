@@ -15,7 +15,7 @@ MonoBehaviour:
   instrumentType: 1
   instrumentFamily: 1
   instrumentName: "\u30C8\u30ED\u30F3\u30DC\u30FC\u30F3"
-  instrumentDescription: "\u30C8\u30ED\u30F3\u30DC\u30FC\u30F3"
+  instrumentDescription: "\u304D\u3087\u3046\u308A\u3085\u3046\u306E\u3053\u3048\u3068\u306B\u3066\u3044\u308B\u304A\u3068\u304C\u3067\u308B\u304C\u3063\u304D\u3060\u3088\uFF01"
   instrumentImage: {fileID: 21300000, guid: cf2694385da10429abacd45355f70fb7, type: 3}
   instrumentClips:
   - {fileID: 8300000, guid: bb6aed4f3f9f647479928c975c01c705, type: 3}
@@ -23,7 +23,7 @@ MonoBehaviour:
   - {fileID: 0}
   melodyClip: {fileID: 8300000, guid: c9934cde197c7413eb5cab22a51f2189, type: 3}
   harmonyClip: {fileID: 8300000, guid: 738802db3dbc34dfc8122dc2b26c5360, type: 3}
-  bassClip: {fileID: 0}
+  bassClip: {fileID: 8300000, guid: 9c17ff4cd35fa4d3483be5802100adc2, type: 3}
   percussionClip: {fileID: 0}
   pichted: 1
   bass: 1

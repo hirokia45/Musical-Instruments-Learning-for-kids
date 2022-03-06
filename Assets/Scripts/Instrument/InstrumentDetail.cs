@@ -39,8 +39,8 @@ public class InstrumentDetail : MonoBehaviour
 
     public void CloseDetail()
     {
-        _buttonClickAudio.PlayCancelSfx();
         _audioPlayer.Stop();
+        _buttonClickAudio.PlayCancelSfx();
         
         _currentInstrument = null;
         instrumentListCanvas.SetActive(true);
